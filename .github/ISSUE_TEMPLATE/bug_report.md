@@ -16,7 +16,7 @@ labels: bug
 <!-- Yes / No / Haven't tried. A portable REAPER install is the quickest way to check. -->
 
 **System**
-- OS and version: <!-- e.g. macOS 14.5, Ubuntu 24.04 -->
+- OS and version: <!-- e.g. Windows 11 23H2, Ubuntu 24.04 -->
 - CPU: <!-- Apple Silicon / Intel / AMD -->
 - REAPER version:
 - Analyse 1 version: <!-- shown in the panel -->

@@ -20,22 +20,24 @@ A thank-you to the REAPER community, which has inspired me since 2007.
 ![Analyse 1 docked at the top of REAPER](docs/images/reaper-full.webp)
 
 > [!IMPORTANT]
-> **Free public beta, version 0.5.0.** Analyse 1 has been through extensive code
-> review and works on macOS, Windows and Linux. It's a beta because it hasn't
-> yet been widely used in real-world projects, so please report anything that
-> doesn't look right, especially a reading that disagrees with a meter you trust.
+> **Free public beta, version 0.5.0. Available now for Windows and Linux; macOS
+> is coming soon.** Analyse 1 has been through extensive code review. It's a beta
+> because it hasn't yet been widely used in real-world projects, so please report
+> anything that doesn't look right, especially a reading that disagrees with a
+> meter you trust.
 
 | | |
 | --- | --- |
 | **Version** | 0.5.0 beta |
-| **Platforms** | macOS 11+ (Apple Silicon and Intel), Windows 10 and 11 (x64), Linux (x86_64, glibc 2.35+) |
+| **Available now** | Windows 10 and 11 (x64), Linux (x86_64, glibc 2.35+) |
+| **Coming soon** | macOS 11+ (Apple Silicon and Intel) |
 | **Requires** | REAPER 7.8 or later, 64-bit, and [ReaPack](https://reapack.com) |
 | **Price** | Free, including for commercial work |
 | **Documentation** | [Install guide (PDF)](docs/kerf-analyse-1-install-guide.pdf) · [User manual (PDF)](docs/kerf-analyse-1-manual.pdf) |
 
 ## Install
 
-Install with ReaPack on every platform. On macOS it's the only way to install.
+Install with ReaPack. It installs the right build for your system and keeps it up to date.
 
 1. Install [ReaPack](https://reapack.com) if you don't have it, and restart REAPER.
 2. Choose **Extensions › ReaPack › Import repositories…**, paste this address and
@@ -47,12 +49,12 @@ Install with ReaPack on every platform. On macOS it's the only way to install.
    right-click it, choose **Install**, then click **Apply**.
 4. Restart REAPER.
 5. Open the panel from **Extensions › Kerf Audio Analyse 1: Show/hide panel**
-   (Option+V on macOS).
+   On Windows and Linux there's no shortcut to begin with; add one under
+   **Actions › Show action list**.
 
 The strip moves itself to a docker at the top of the main window the first time
-it opens, and the height settles after REAPER's next restart. ReaPack keeps it up
-to date. On Windows and Linux you can also install by hand from
-[Releases](../../releases). See [INSTALL.md](INSTALL.md) for that, and for
+it opens, and the height settles after REAPER's next restart. You can also install
+by hand from [Releases](../../releases). See [INSTALL.md](INSTALL.md) for that, and for
 upgrading and uninstalling.
 
 ## The strip
