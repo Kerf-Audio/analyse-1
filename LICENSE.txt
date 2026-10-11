@@ -1,0 +1,64 @@
+KERF AUDIO FREEWARE LICENCE
+Kerf Audio Analyse 1
+
+Copyright (c) 2026 Danny Wincott, trading as Kerf Audio. All rights reserved.
+
+In this licence, "Kerf Audio" means Danny Wincott, trading as Kerf Audio.
+
+By installing or using Kerf Audio Analyse 1 ("the Software") you agree to the
+terms of this licence. If you do not agree, do not install or use it.
+
+1. LICENCE
+   You may download, install and use the Software free of charge, on any
+   number of computers, for personal or commercial work. Music and audio you
+   make with the Software are entirely yours.
+
+2. RESTRICTIONS
+   You may not:
+   (a) sell, rent, lease, sublicense or redistribute the Software, on its own
+       or bundled with any other product, without written permission from
+       Kerf Audio. You are welcome to link to the official download page;
+   (b) modify, reverse engineer, decompile or disassemble the Software,
+       except to the extent that applicable law permits this regardless of
+       this restriction;
+   (c) remove or alter any copyright notice, trade mark or this licence.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. Kerf Audio keeps all rights, title and
+   intellectual property in the Software, including its source code, which is
+   not provided under this licence.
+
+4. BETA SOFTWARE
+   The Software is a beta release. It has not yet been widely used in
+   real-world projects and may contain bugs. Back up your projects before
+   using it. Updates, bug fixes and support are provided at Kerf
+   Audio's discretion and there is no obligation to provide them.
+
+5. NO WARRANTY
+   The Software is provided "as is", without warranty of any kind, express or
+   implied, including but not limited to warranties of satisfactory quality,
+   fitness for a particular purpose and non-infringement.
+
+6. LIMITATION OF LIABILITY
+   To the fullest extent permitted by law, Kerf Audio is not liable for any
+   loss or damage arising from the use of, or inability to use, the Software,
+   including loss of data, projects, income, profit or business. Nothing in
+   this licence limits or excludes liability for death or personal injury
+   caused by negligence, for fraud or fraudulent misrepresentation, or for any
+   other liability that cannot be limited or excluded by law.
+
+7. TERMINATION
+   This licence ends automatically if you breach any of its terms. On
+   termination you must stop using the Software and delete all copies.
+
+8. THIRD-PARTY COMPONENTS
+   The Software includes third-party components licensed under their own
+   terms. See THIRD-PARTY-NOTICES.txt.
+
+9. GOVERNING LAW
+   This licence is governed by the laws of England and Wales, and the courts
+   of England and Wales have exclusive jurisdiction over any dispute arising
+   from it.
+
+Licensing and permission requests: support@kerfaudio.com
+Bug reports and support: https://github.com/Kerf-Audio/analyse-1/issues
