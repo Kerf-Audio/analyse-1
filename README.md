@@ -111,6 +111,15 @@ level and how long ago.
 
 The [user manual](docs/kerf-analyse-1-manual.pdf) covers every control.
 
+## How it's made
+
+I have a real software development background and have been involved in the
+music industry for over 30 years. This isn't vibe-coded. I used AI assistance,
+but as part of a hybrid workflow with a person in charge at every step: a proper
+development process, human oversight of every change, code reviews, and testing
+in REAPER. It's still a beta and there will be issues. That is exactly why I
+want the REAPER community testing it.
+
 ## Support and bugs
 
 - **Bugs:** [open an issue](../../issues/new/choose). The form asks for your
